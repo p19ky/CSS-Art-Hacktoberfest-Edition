@@ -70,7 +70,7 @@ let cards = [
     ["Xmas", "./Art/Chrissy/xmas.html", "./Art/Chrissy/xmas.png", "Chrissy", "https://github.com/charlecoda88"],
     ["Spooky violin", "./Art/JaniH92/index.html", "./Art/JaniH92/spookyViolin.GIF", "Jani Hänninen", "https://github.com/jh1992jh"],
     ["Responsive Bars", "./Art/Rahul/index.html", "./Art/Rahul/index.png", "Rahul", "https://github.com/rik-96"],
-	["Creepy Pumpkin", "./Art/Virtual1/Virtual1.html", "./Art/Virtual1/Virtual1.bmp", "Jessica Erasmus", "https://github.com/Virtual1"],
+    ["Creepy Pumpkin", "./Art/Virtual1/Virtual1.html", "./Art/Virtual1/Virtual1.bmp", "Jessica Erasmus", "https://github.com/Virtual1"],
     ["Boat", "./Art/Boat/index.html", "./Art/Boat/Boat.png", "Titi Arimba", "https://github.com/titiarimba"],
     ["Koala", "./Art/Chrissy/koala.html", "./Art/Chrissy/koalaedit.png", "Chrissy", "https://github.com/charlecoda88"],
     ["Landscape", "./Art/David/index.html", "./Art/David/landscape.png", "The24thDS", "https://github.com/the24thds"],
@@ -92,7 +92,7 @@ let cards = [
     ["Ghost", "./Art/toserjude/ghost.html", "./Art/toserjude/ghost.jpg", "toserjude", "https://github.com/toserjude"],
     ["JS Logo", "./Art/Thulasi/index.html", "./Art/Thulasi/js-logo.PNG", "ThulasiA", "https://github.com/ThulasiA"],
     ["Black Cat", "./Art/toserjude/blackCat.html", "./Art/toserjude/cat.jpg", "toserjude", "https://github.com/toserjude"],
- 
+
     ["Minimalist Hover and Move Away", "./Art/JoyceMinimalistArt/index.html", "./Art/JoyceMinimalistArt/joycemini.png", "Joyce Wambui", "https://github.com/joycewambui"],
     ["Baymax", "./Art/dziukers/index.html", "./Art/dziukers/Baymax.JPG", "dziukers", "https://github.com/dziukers"],
     ["Smart Phone", "./Art/chathurasam/smartphone.html", "./Art/chathurasam/screenshot.png", "Chathura Samarajeewa", "https://github.com/ChathuraSam"],
@@ -107,6 +107,7 @@ let cards = [
     ["Mounion vaakuna", "./Art/MAhoMaha12112017/MAhoMaha12112017.html", "./Art/MAhoMaha12112017/mouniovaakuna_pieni_skaalattu.PNG", "MAho", "https://github.com/MAhoMaha12112017"],
     ["bouncing ball", "./Art/jaeja/index.html", "./Art/jaeja/ball.PNG", "jae", "https://github.com/jaeja"],
     ["Egg", "./Art/tomikonio/egg.html", "./Art/tomikonio/egg.png", "tomikonio", "https://github.com/tomikonio"],
+    ["animationPinky", "./Art/animation/index.html", ".Art/animation/fade.gif", "Krisztian", "https://github.com/p19ky"],
 ];
 
 
